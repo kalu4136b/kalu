@@ -1,0 +1,19 @@
+C:\coding\New folder\student management system\student management system\bin\Debug\net8.0-windows\student management system.exe
+C:\coding\New folder\student management system\student management system\bin\Debug\net8.0-windows\student management system.deps.json
+C:\coding\New folder\student management system\student management system\bin\Debug\net8.0-windows\student management system.runtimeconfig.json
+C:\coding\New folder\student management system\student management system\bin\Debug\net8.0-windows\student management system.dll
+C:\coding\New folder\student management system\student management system\bin\Debug\net8.0-windows\student management system.pdb
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student_management_system.Form1.resources
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student_management_system.Form2.resources
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student management system.csproj.GenerateResource.cache
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student management system.AssemblyInfoInputs.cache
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student management system.AssemblyInfo.cs
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student management system.csproj.CoreCompileInputs.cache
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student management system.dll
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\refint\student management system.dll
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student management system.pdb
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student management system.genruntimeconfig.cache
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\ref\student management system.dll
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student_management_system.Form3.resources
+C:\coding\New folder\student management system\student management system\obj\Debug\net8.0-windows\student_management_system.Properties.Resources.resources
